@@ -1,0 +1,6 @@
+{
+  "name": "PC Control Agent Suite",
+  "description": "Full source code, interactive emulator, and deployment guides for a secure, self-hosted Windows background service and Flutter Android dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
